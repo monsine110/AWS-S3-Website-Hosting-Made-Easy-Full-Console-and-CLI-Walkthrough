@@ -113,7 +113,7 @@ Command to Turn Off Public Access is
 
 #### Step 3: Set Bucket Policy for Public Access
 
-1. **Set Bucket Policy**: Allow public access to the files in your S3 bucket by creating a policy. You can create a file named `policy2.json` , open in vscode using `code .` the following content:
+1. **Set Bucket Policy**: Allow public access to the files in your S3 bucket by creating a policy. You can create a file named `policy2.json` , open in vscode using `code .` the following contents:
 
    ```json
    {
